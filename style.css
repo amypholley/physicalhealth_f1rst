@@ -1,8 +1,14 @@
-
-
 ul {
     display: flex;
     justify-content: center;
     gap: 50px;
     list-style: none;
+}
+
+.header {
+    padding: 50px;
+    text-align: center;
+    background: rgb(117, 5, 117);
+    color: white;
+    font-size: 30px;
 }
