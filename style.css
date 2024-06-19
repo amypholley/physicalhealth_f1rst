@@ -10,3 +10,16 @@ ul {
     font-size: medium;
     font-display: white;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(179, 123, 104);
+    color: white;
+    font-size: medium;
+    font-display: white;
+}
