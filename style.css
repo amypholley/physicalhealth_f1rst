@@ -23,10 +23,10 @@ ul {
 
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     gap: 50px;
     padding: 50px;
-    text-align: center;
+    text-align: left;
     background-color: rgb(179, 123, 104);
     color: white;
     font-size: medium;
