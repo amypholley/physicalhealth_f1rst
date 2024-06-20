@@ -15,7 +15,6 @@ footer {
     display: flex;
     justify-content: center;
     gap: 50px;
-    list-style: none;
     padding: 50px;
     text-align: center;
     background-color: rgb(179, 123, 104);
