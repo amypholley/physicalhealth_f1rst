@@ -21,7 +21,7 @@ ul {
     opacity: .9;
 }
 
-#footer {
+footer {
     display: flex;
     justify-content: center;
     gap: 50px;
